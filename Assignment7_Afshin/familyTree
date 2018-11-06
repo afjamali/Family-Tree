@@ -1,0 +1,29 @@
+[
+Name:	peter
+Age:	0
+Spouse:	
+Children:	[]
+Nationality:	
+Residence:	
+, 
+Name:	jack
+Age:	0
+Spouse:	null
+Children:	[]
+Nationality:	null
+Residence:	null
+, 
+Name:	sally
+Age:	30
+Spouse:	
+Children:	[don]
+Nationality:	
+Residence:	
+, 
+Name:	don
+Age:	324
+Spouse:	
+Children:	[]
+Nationality:	
+Residence:	
+]

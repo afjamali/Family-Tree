@@ -1,0 +1,29 @@
+[
+Name:	sma
+Age:	234
+Spouse:	
+Children:	[ronb, rob, jack]
+Nationality:	
+Residence:	
+, 
+Name:	ronb
+Age:	0
+Spouse:	null
+Children:	[]
+Nationality:	null
+Residence:	null
+, 
+Name:	rob
+Age:	0
+Spouse:	null
+Children:	[]
+Nationality:	null
+Residence:	null
+, 
+Name:	jack
+Age:	0
+Spouse:	null
+Children:	[]
+Nationality:	null
+Residence:	null
+]
